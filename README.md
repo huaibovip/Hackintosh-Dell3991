@@ -1,7 +1,6 @@
 # Hackintosh-Dell3991
-Dell ChengMing 3991 OpenCore 0.7.6 macOS Monterey 12.0.1
 
-# Dell.ChengMing.3991-OpenCore.0.6.4-macOS.Big.Sur.11.1
+# Dell ChengMing 3991 OpenCore 0.7.6 macOS Monterey 12.0.1
 硬软件信息：
 
 |   条目   |                                        内容                                          |
